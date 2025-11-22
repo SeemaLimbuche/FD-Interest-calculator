@@ -1,7 +1,7 @@
-## FD-Interest-calculator
+# FD-Interest-calculator
 A simple Python-based Fixed Deposit (FD) interest rate calculator that assigns the correct rate based on FD duration, user type (public/senior), and rate type (existing/revised).
 
-# Fixed Deposit Interest Rate Finder (Python)
+## Fixed Deposit Interest Rate Finder (Python)
 
 A small command-line utility to determine the applicable fixed-deposit (FD) interest rate based on:
 - start and end dates (duration)
